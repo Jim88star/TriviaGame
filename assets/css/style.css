@@ -1,0 +1,28 @@
+body {
+  background-image: url("/assets/images/80s.jpg");
+  background-repeat: repeat-y;
+  background-size: 100%;
+  }
+
+h1 {
+  padding-bottom: 30px;
+  padding-top: 10px;
+
+}
+div {
+  width: 800px;
+  text-align: center;
+  margin: auto;
+  padding-bottom: 10px;
+  background-color: bisque;
+  opacity: .9;
+}
+
+#freeze {
+  color: red;
+  position: fixed;
+  top: 60px;
+  left: 0;
+  background-color: black;
+  border: black solid 10px;
+}
